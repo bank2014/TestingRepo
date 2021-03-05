@@ -1,2 +1,4 @@
 Print
-.class
+*.class
+
+#이건 주석이여
